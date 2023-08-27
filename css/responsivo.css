@@ -1,0 +1,76 @@
+@media screen and (max-width:1197px){
+    .menu{
+        display: none;   
+    }
+    .logo{
+        text-align: center;
+        margin: 0;
+    }
+    .navbar{
+        position: static;
+    }
+    .header{
+        padding-top: 50px;
+    }
+    .headline{
+        flex: 100%;
+        margin: 5%;
+        text-align: center;
+    }
+    .headline p{
+        text-align: center;
+    }
+    .img-headline{
+        flex: 100%;
+        margin: 5%;
+        text-align: center;
+    }
+    .logo-whats{
+        display: none;
+    }
+    .card{
+        width: 100%;
+    }
+}
+
+@media screen and (max-width:479px){
+    .menu{
+        display: none;   
+    }
+    .logo{
+        text-align: center;
+        margin: 0;
+    }
+    .navbar{
+        position: static;
+    }
+    .header{
+        padding-top: 50px;
+    }
+    .headline{
+        flex: 100%;
+        margin: 5%;
+        text-align: center;
+    }
+    .headline p{
+        text-align: center;
+    }
+    .headline h2{  
+        font-size: 15px;
+    }
+    .headline .fonte{
+        font-size: 70px;
+    }
+    .img-headline{
+        flex: 100%;
+        margin: 5%;
+        text-align: center;
+    }
+    .logo-whats{
+        display: none;
+    }
+    .card{
+        width: 100%;
+    }
+
+}
